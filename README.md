@@ -4,7 +4,7 @@ A game created by team Zamieć for [ZTGK 2018](http://gry.it.p.lodz.pl/) competi
 
 The game was awarded with a special prize by [11 bit studios](http://www.11bitstudios.com).
 
-Mage is a mix of a roguelike and a third-person shooter.
+Mage is a mix of a roguelike and a third-person shooter. An early trailer for the game can be seen here: https://vimeo.com/277323634
 
 This version of the game is by no means finished and is meant as a demo.
 
