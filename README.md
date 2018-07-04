@@ -8,6 +8,10 @@ Mage is a mix of a roguelike and a third-person shooter. An early trailer for th
 
 This version of the game is by no means finished and is meant as a demo.
 
+# Download
+A current download link is available in releases:
+https://github.com/grekomp/Mage/releases
+
 # Our Team
 Our team consists of 5 students from Uniwersytet Śląski w Katowicach.
 ### Graphics
