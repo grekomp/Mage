@@ -1,5 +1,5 @@
 # Mage
-[Title Screen](https://github.com/grekomp/Mage/blob/master/Mage%20Title%20Screen.png "Title Screen")
+![Title Screen](https://github.com/grekomp/Mage/blob/master/Mage%20Title%20Screen.png?raw=true "Title Screen")
 A game created by team Zamieć for [ZTGK 2018](http://gry.it.p.lodz.pl/) competition in Łódź, Poland.
 
 The game was awarded with a special prize by [11 bit studios](http://www.11bitstudios.com).
